@@ -64,4 +64,6 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
+PORTFOLIO URL:https://sabdhar23-portfolio.lovable.app
+
 
